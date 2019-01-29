@@ -1,3 +1,6 @@
+git add
+git commit
+git push
 
 y = w x + b
 
@@ -18,3 +21,12 @@ Add something by Lee
 Alclsdlf
 
 "Edited by Gavin"
+
+git pull
+git clone
+
+
+git branch
+git checkout
+
+
