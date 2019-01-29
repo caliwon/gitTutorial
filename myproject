@@ -1,16 +1,11 @@
+git add
+git commit
+git push
+
+git pull
+git clone
 
 
+git branch
+git checkout
 
-y = w x + b
-
-(4, 6)
-(6, 8)
-
-
-
-6 = w 4 + b
-8 = w 6 + b
-
-
-w = ?
-b = ?
