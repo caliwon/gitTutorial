@@ -13,6 +13,10 @@ y = w x + b
 w = ?
 b = ?
 
+<<<<<<< HEAD
 
 Add something by Lee
 Alclsdlf
+=======
+"Edited by Gavin"
+>>>>>>> 18b170b1b71ce8dec210c7d9f1e38a512aa9d4aa
